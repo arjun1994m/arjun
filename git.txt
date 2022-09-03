@@ -1,0 +1,20 @@
+new tocken...
+
+ git push https://ghp_pO2Pfw260wJZq95mz33mxejvzjGvZ41Q5xp/arjun1994m/demo.git
+
+
+
+git remote set-url origin https://@github.com/arjun1994m/Jenkins_Upgradev3
+
+https://github.com/arjun1994m/Jenkins_Upgradev3.git
+
+git remote add origin https://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@github.com/arjun1994m/demo.git
+
+ git push https://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/arjun1994m/demo
+
+
+
+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
+
+
+ git push https://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@github.com/arjun1994m/demo
